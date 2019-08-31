@@ -1,10 +1,18 @@
 [
   {
-    "id": "app",
-    "ver": "1.0"
+    "id":"app",
+    "version":"1.0"
   },
   {
-    "id": "smallest",
-    "ver": "1.0"
+    "id":"MelonBiggest",
+    "version":"1.0"
+  },
+  {
+    "id":"SmallestNumber",
+    "version":"1.0"
+  },
+  {
+    "id":"MultipleChoice",
+    "version":"1.0"
   }
 ]
